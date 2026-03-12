@@ -10,6 +10,10 @@
 
 ---
 
+## 🏗️ Architecture
+
+![SOC Architecture](architecture.svg)
+
 ## 📋 Project Overview
 
 | Detail | Value |
