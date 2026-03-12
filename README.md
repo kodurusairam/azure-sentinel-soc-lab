@@ -84,22 +84,22 @@ UserLoginEvents
 ## 📸 Screenshots
 
 ### Sentinel Overview — Live Incidents
-![Sentinel Overview](sentinal%20workspace/04-sentinel-overview-incidents-detected.png)
+![Sentinel Overview](sentinal%20workspace/04-sentinel-overview-incidents-detected.png.png)
 
 ### Data Connectors
-![Data Connectors](sentinal%20workspace/05-sentinel-data-connectors-8-connected.png)
+![Data Connectors](sentinal%20workspace/05-sentinel-data-connectors-8-connected.png.png)
 
 ### KQL — Brute Force Detection
-![Brute Force](sentinal%20workspace/08-kql-network-logon-attempts-brute-force.png)
+![Brute Force](sentinal%20workspace/08-kql-network-logon-attempts-brute-force.png.png)
 
 ### KQL — Suspicious Process Execution
-![Suspicious Process](sentinal%20workspace/09-kql-suspicious-process-execution.png)
+![Suspicious Process](sentinal%20workspace/09-kql-suspicious-process-execution.png.png)
 
 ### KQL — Network Beaconing
-![Network Beaconing](sentinal%20workspace/10-kql-network-beaconing-detection.png)
+![Network Beaconing](sentinal%20workspace/10-kql-network-beaconing-detection.png.png)
 
 ### KQL — Login Anomaly
-![Login Anomaly](sentinal%20workspace/11-kql-user-login-location-analysis.png)
+![Login Anomaly](sentinal%20workspace/11-kql-user-login-location-analysis.png.png)
 
 ---
 
