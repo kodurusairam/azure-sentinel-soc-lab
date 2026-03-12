@@ -1,4 +1,10 @@
 # azure-sentinel-soc-lab
+
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Microsoft Sentinel](https://img.shields.io/badge/SIEM-Microsoft%20Sentinel-purple)
+![KQL](https://img.shields.io/badge/Query-KQL-orange)
+![Cybersecurity](https://img.shields.io/badge/Domain-SOC-red)
+
 Microsoft Sentinel SOC Lab – SIEM deployment and threat hunting using KQL on Azure.
 
 This project demonstrates SIEM deployment and threat hunting using Microsoft Sentinel on Microsoft Azure.
